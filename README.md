@@ -8,7 +8,7 @@ I am passionate about building intuitive, responsive user interfaces and robust 
 ### What I bring to the table:
 
 - 🚀 **Deliver high-quality applications**: Ensuring performance, scalability, and responsiveness in every project.
-- 🛠️ **Mastery of design patterns and software architectures**: Strong foundation in SOLID principles, MVC, and other architectures.
+- 🛠️ **Mastery of design patterns and software architectures**: Strong foundation in BLOC principles, MVC,Clean Architecture,MVVM and other architectures.
 - 🤝 **Team collaboration**: Proven ability to work in cross-functional teams, fostering strong communication and teamwork.
 - 🔍 **Focus on code quality and best practices**: Writing clean, maintainable, and testable code with a focus on reusability.
 - 📈 **Continuous learning and improvement**: Staying up-to-date with the latest tools and technologies to enhance project delivery.
