@@ -1,5 +1,6 @@
 # TCHINDA FOTIO BRISTOL DELAURE
 # Hi there 👋
+![](card_web.gif)
 
 I am a Software Engineer focused on Flutter 💙.  
 I am passionate about building intuitive, responsive user interfaces and robust backend systems. With a strong focus on front-end technologies and a solid understanding of backend development, I can transform complex ideas into seamless, functional experiences. I continuously stay up-to-date with the latest trends and technologies to ensure my work is both innovative and efficient. I am always looking for new opportunities to collaborate with dynamic teams to create impactful, user-centered solutions. Feel free to reach out if you'd like to discuss your next project!
